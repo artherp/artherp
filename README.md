@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=artherp.artherp" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Arthur+Erpen!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains-Mono&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+💻;+I'm+Arthur+Erpen!;" />
 </h1>
 
 <h3 align="center">A Computer Science student from Florianópolis🇧🇷</h3>
@@ -63,7 +63,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=artherp&theme=dark&hide_border=true&border_radius=15" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=artherp&theme=white&hide_border=true&border_radius=5" alt="GitHub Streak" /></a>
   <img alt="my-stats" src = "https://github-readme-stats.vercel.app/api?username=artherp"/>
   <img alt="my-langs" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=artherp"/>
 </div>
