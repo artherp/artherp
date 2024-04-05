@@ -35,7 +35,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,git,r" />
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,git" />
     <img src="https://skillicons.dev/icons?i=python" /><br>
 </div>
 
@@ -45,7 +45,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img src= "https://github.com/artherp/artherp/blob/output/github-contribution-grid-snake.svg" />
+  ![snake gif](https://github.com/artherp/artherp/blob/output/github-contribution-grid-snake.svg)
   
   <br/><br/><br/>
 </div>
