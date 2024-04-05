@@ -45,7 +45,15 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  ![snake gif](https://github.com/artherp/artherp/blob/output/github-contribution-grid-snake.svg)
+  <div align="center">
+
+<picture>
+
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/artherp/artherp/output/github-contribution-grid-snake.svg">
+
+</picture>
+
+</div>
   
   <br/><br/><br/>
 </div>
