@@ -65,7 +65,7 @@
 <div align=center>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=artherp&theme=white&hide_border=true&border_radius=5" alt="GitHub Streak" /></a>
   <img alt="my-stats" src = "https://github-readme-stats.vercel.app/api?username=artherp"/>
-  <img alt="my-langs" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=artherp"/>
+  <img align= "top" alt="my-langs" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=artherp"/>
 </div>
 
 <br/><br/>
