@@ -12,7 +12,7 @@
  
  🔭 I’m currently studying at **Federal University of Santa Catarina**
  
- 🌱 I’m currently learning **HTML, CSS, Python, Vhdl**
+ 🌱 I’m currently learning **HTML, CSS, JavaScript, Python**
 
 💬 Ask me about **Anything [here](https://github.com/artherp/artherp/issues)**
 
@@ -35,7 +35,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,vscode,github,figma,git" />
     <img src="https://skillicons.dev/icons?i=python" /><br>
 </div>
 
