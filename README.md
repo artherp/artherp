@@ -1,77 +1,71 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=artherp.artherp" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains-Mono&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+💻;+I'm+Arthur+Erpen!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=4000&color=00ADB5&center=true&vCenter=true&width=600&height=70&lines=Hello,+World!+🌍;I'm+Arthur+Erpen!+💻;Tech+Enthusiast!+🚀" />
 </h1>
 
-<h3 align="center">A Computer Science student from Florianópolis🇧🇷</h3>
+<h3 align="center">👨‍💻 Computer Science Student | Florianópolis 🇧🇷</h3>
 
-<br/>
+---
 
 <div align="center">
  
- 🔭 I’m currently studying at **Federal University of Santa Catarina**
- 
- 🌱 I’m currently learning **HTML, CSS, JavaScript, Python**
+### 🌟 About Me
+🔭 **Currently studying at:** Federal University of Santa Catarina  
+🌱 **Currently learning:** Java, Flutter, Python, SQL  
+💬 **Let's Chat:** [Open an Issue!](https://github.com/artherp/artherp/issues)  
+⚡ **Fun Fact:** "Coding isn’t just for tech—it’s for everyone!"
 
-💬 Ask me about **Anything [here](https://github.com/artherp/artherp/issues)**
+</div>
 
-⚡ Fun fact **You don't have to work in tech to use coding**
+---
 
- </div>
- 
 <div align="center"> 
-  <a href="mailto:a.erpen.contact@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/arthur-erpen-798804260/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  </a>
+    <a href="mailto:a.erpen.contact@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    </a>
+    <a href="https://www.linkedin.com/in/arthur-erpen-798804260/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
 </div>
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
+---
+
+<h2 align="center">⚒️ Skills & Tools ⚒️</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,vscode,github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=python" /><br>
+    <img src="https://skillicons.dev/icons?i=java,html,css,javascript,flutter,figma,git,python&theme=dark" alt="skills"/>
 </div>
 
-<br/>
-<hr/>
+---
 
+<h2 align="center">🐍 Contribution Snake 🐍</h2>
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <div align="center">
-
-<picture>
-
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/artherp/artherp/output/github-contribution-grid-snake.svg">
-
-</picture>
-
-</div>
-  
-  <br/><br/><br/>
+    <picture>
+        <img src="https://raw.githubusercontent.com/artherp/artherp/output/github-contribution-grid-snake.svg" alt="GitHub Snake"/>
+    </picture>
 </div>
 
-<hr/>
+---
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=artherp&theme=white&hide_border=true&border_radius=5" alt="GitHub Streak" /></a>
-  <img alt="my-stats" src = "https://github-readme-stats.vercel.app/api?username=artherp"/>
-  <img align= "top" alt="my-langs" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=artherp"/>
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=artherp&theme=radical&hide_border=true&border_radius=8" alt="GitHub Streak Stats" />
+  </a>
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=artherp&show_icons=true&theme=radical&hide_border=true&border_radius=8" alt="GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artherp&layout=compact&theme=radical&hide_border=true&border_radius=8" alt="Top Languages" />
 </div>
 
-<br/><br/>
+---
 
-<hr/>
-
-<br/>
-
-<br/>
+<h2 align="center">🌐 Let's Connect 🌐</h2>
+<div align="center">
+    <a href="mailto:a.erpen.contact@gmail.com">
+        <img src="https://img.shields.io/badge/Email-333333?style=flat&logo=gmail&logoColor=red" />
+    </a>
+    <a href="https://www.linkedin.com/in/arthur-erpen-798804260/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+    </a>
+</div>
